@@ -28,7 +28,3 @@ This project includes a Makefile. To compile and run the program, use:
 ```bash
 make
 ./main
-
-
-## Author:
-Marta Mysyshyn
